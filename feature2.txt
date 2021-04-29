@@ -1,1 +1,1 @@
-hello samara feature2 document
+hello samara feature2 document, updated in integration
